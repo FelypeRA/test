@@ -64,6 +64,7 @@ def excluifuncionario():
   del funcionarios[id]
 
 funcionarios = [
+  {'nome': 'Felype Ramirez Alves', 'idade': 21, 'função': 'Desenvolvedor Python', 'CPF': '1234567', 'endereço': 'Foz do Iguaçu'},
   {'nome': 'Felype Ramirez Alves', 'idade': 21, 'função': 'Desenvolvedor Python', 'CPF': '1234567', 'endereço': 'Foz do Iguaçu'}
 ]
 cont = 0 
