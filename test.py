@@ -65,7 +65,9 @@ def excluifuncionario():
 
 funcionarios = [
   {'nome': 'Felype Ramirez Alves', 'idade': 21, 'função': 'Desenvolvedor Python', 'CPF': '1234567', 'endereço': 'Foz do Iguaçu'},
-  {'nome': 'Felype Ramirez Alves', 'idade': 21, 'função': 'Desenvolvedor Python', 'CPF': '1234567', 'endereço': 'Foz do Iguaçu'}
+  {'nome': 'Jorje', 'idade': 21, 'função': 'mecanico', 'CPF': '08545646546', 'endereço': 'Foz do Iguaçu'},
+  {'nome': 'everton', 'idade': 21, 'função': 'Desenvolvedor Python', 'CPF': '1234567', 'endereço': 'Foz do Iguaçu'},
+  {'nome': 'Felype Ramirez Alves', 'idade': 21, 'função': 'Desenvolvedor Python', 'CPF': '1234567', 'endereço': 'Foz do Iguaçu'},
 ]
 cont = 0 
 opção = 0
